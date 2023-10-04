@@ -1,0 +1,18 @@
+description: Ultralytics best model trained on /content/datasets/sMSR0mTN2w/data.yaml
+author: Ultralytics
+license: AGPL-3.0 https://ultralytics.com/license
+date: '2023-10-04T19:46:47.220306'
+version: 8.0.166
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: gear-26
+  1: gear-28
+  2: gear-29
+  3: gear-30
+  4: gear-31
+  5: gear-AA-43
